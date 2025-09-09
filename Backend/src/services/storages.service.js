@@ -17,4 +17,4 @@ async function uploadFile(file, filename){
 
 module.exports = {
     uploadFile
-}cd
+}
